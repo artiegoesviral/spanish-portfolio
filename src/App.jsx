@@ -28,7 +28,7 @@ const projects = [
       "Aplicación visual e interactiva para practicar conjugaciones verbales en español.",
     points: ["Interfaz intuitiva", "React Hooks", "Componentes mantenibles"],
     type: "Educación",
-    link: "https://github.com/artiegoesviral/spanish-language-wheel",
+    link: "https://artiegoesviral.github.io/spanish-language-wheel/",
   },
   {
     title: "Aplicación Reproductor de Música",
