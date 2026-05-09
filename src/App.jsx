@@ -140,7 +140,7 @@ export default function PortfolioQurat() {
               <a href="mailto:quratsikander@gmail.com">quratsikander@gmail.com</a>
               <a href="https://www.linkedin.com/in/quratsikander">LinkedIn</a>
               <a href="https://github.com/artiegoesviral">GitHub</a>
-              <a href="">Portfolio</a>
+              <a href="https://www.notion.so/Social-Media-Manager-Video-Editor-2845d5a925184565af4f091d96e507be">Portfolio</a>
             </div>
           </CardContent>
         </Card>
