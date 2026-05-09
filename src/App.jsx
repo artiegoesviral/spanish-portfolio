@@ -55,7 +55,7 @@ const skills = [
   { icon: "🎨", title: "UI/UX", text: "Diseño responsive y accesibilidad" },
   { icon: "📱", title: "Responsive", text: "Adaptado a móvil, tablet y desktop" },
   { icon: "♿", title: "Accesibilidad", text: "Buenas prácticas WCAG" },
-  { icon: "🗄️", title: "Backend", text: "Node.js, APIs REST, bases de datos" },
+  { icon: "🗄️", title: "Backend", text: "Python, Node.js, APIs REST, MySQL, MongoDB" },
   { icon: "✨", title: "Optimización", text: "Rendimiento y mantenimiento" },
 ];
 
@@ -140,6 +140,7 @@ export default function PortfolioQurat() {
               <a href="mailto:quratsikander@gmail.com">quratsikander@gmail.com</a>
               <a href="https://www.linkedin.com/in/quratsikander">LinkedIn</a>
               <a href="https://github.com/artiegoesviral">GitHub</a>
+              <a href="">Portfolio</a>
             </div>
           </CardContent>
         </Card>
